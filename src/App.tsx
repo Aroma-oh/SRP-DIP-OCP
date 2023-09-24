@@ -1,10 +1,13 @@
-import React from 'react';
+import Auth from './components/Auth';
+import Todo from './components/Todo';
 
 function App() {
+
   return (
-    <div className="App">
-      hi
-    </div>
+    <>
+      <Auth />
+      <Todo />
+    </>
   );
 }
 
