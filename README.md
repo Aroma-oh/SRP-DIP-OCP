@@ -4,5 +4,6 @@
   [Auth interface](https://github.com/Aroma-oh/SRP-DIP-OCP/issues/1), 
   [Todo interface](https://github.com/Aroma-oh/SRP-DIP-OCP/issues/2) </br>
 
-![image](https://github.com/Aroma-oh/SRP-DIP-OCP/assets/115550622/23400ea0-6813-45da-b33a-b3bec4bffff5)
-![image](https://github.com/Aroma-oh/SRP-DIP-OCP/assets/115550622/eaf3bfc2-6b45-47e0-bcab-969eb47d0b48)
+![image](https://github.com/Aroma-oh/SRP-DIP-OCP/assets/115550622/5b0f0393-c669-414e-8d55-435ad6a5ac51)
+![image](https://github.com/Aroma-oh/SRP-DIP-OCP/assets/115550622/2706897b-174e-422a-b549-02684804208a)
+
